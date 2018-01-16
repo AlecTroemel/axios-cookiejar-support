@@ -1,5 +1,5 @@
 {
-  "name": "@3846masa/axios-cookiejar-support",
+  "name": "axios-cookiejar-support",
   "description": "Add tough-cookie support to axios.",
   "author": "3846masa",
   "license": "MIT",
