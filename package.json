@@ -1,15 +1,15 @@
 {
-  "name": "@3846masa/axios-cookiejar-support",
+  "name": "AlecTroemel/axios-cookiejar-support",
   "description": "Add tough-cookie support to axios.",
   "author": "3846masa",
   "license": "MIT",
-  "homepage": "https://github.com/3846masa/axios-cookiejar-support#readme",
+  "homepage": "https://github.com/AlecTroemel/axios-cookiejar-support#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/3846masa/axios-cookiejar-support.git"
+    "url": "git+https://github.com/AlecTroemel/axios-cookiejar-support.git"
   },
   "bugs": {
-    "url": "https://github.com/3846masa/axios-cookiejar-support/issues"
+    "url": "https://github.com/AlecTroemel/axios-cookiejar-support/issues"
   },
   "version": "0.3.2",
   "main": "./lib/index",
